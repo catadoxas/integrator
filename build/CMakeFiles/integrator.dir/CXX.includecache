@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/catadoxas/working/cpp/integrator/main.cpp
+iostream
+-
+Eigen/Dense
+-
+MathGL/FigureClass/figure/figure.hpp
+/home/catadoxas/working/cpp/integrator/MathGL/FigureClass/figure/figure.hpp
+
